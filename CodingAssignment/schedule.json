@@ -1,0 +1,32 @@
+Flight:
+  "F1": {
+    "source": "YUL",
+    "destination": "YYZ"
+  },
+
+  "F2": {
+    "source": "YUL",
+    "destination": "YYC"
+  },
+
+  "F3": {
+      "source": "YUL",
+      "destination": "YVR"
+    },
+},
+"D2": {
+  "F4": {
+    "source": "YUL",
+    "destination": "YYZ"
+  },
+
+  "F5": {
+    "source": "YUL",
+    "destination": "YYC"
+  },
+
+  "F6": {
+      "source": "YUL",
+      "destination": "YVR"
+    },
+}
